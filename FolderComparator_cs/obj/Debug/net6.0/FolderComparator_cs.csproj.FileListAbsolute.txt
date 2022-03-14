@@ -1,0 +1,15 @@
+G:\03_PROGRAMMING\CSharp\FolderComparator_cs\FolderComparator_cs\bin\Debug\net6.0\FolderComparator_cs.exe
+G:\03_PROGRAMMING\CSharp\FolderComparator_cs\FolderComparator_cs\bin\Debug\net6.0\FolderComparator_cs.deps.json
+G:\03_PROGRAMMING\CSharp\FolderComparator_cs\FolderComparator_cs\bin\Debug\net6.0\FolderComparator_cs.runtimeconfig.json
+G:\03_PROGRAMMING\CSharp\FolderComparator_cs\FolderComparator_cs\bin\Debug\net6.0\FolderComparator_cs.dll
+G:\03_PROGRAMMING\CSharp\FolderComparator_cs\FolderComparator_cs\bin\Debug\net6.0\FolderComparator_cs.pdb
+G:\03_PROGRAMMING\CSharp\FolderComparator_cs\FolderComparator_cs\obj\Debug\net6.0\FolderComparator_cs.csproj.AssemblyReference.cache
+G:\03_PROGRAMMING\CSharp\FolderComparator_cs\FolderComparator_cs\obj\Debug\net6.0\FolderComparator_cs.GeneratedMSBuildEditorConfig.editorconfig
+G:\03_PROGRAMMING\CSharp\FolderComparator_cs\FolderComparator_cs\obj\Debug\net6.0\FolderComparator_cs.AssemblyInfoInputs.cache
+G:\03_PROGRAMMING\CSharp\FolderComparator_cs\FolderComparator_cs\obj\Debug\net6.0\FolderComparator_cs.AssemblyInfo.cs
+G:\03_PROGRAMMING\CSharp\FolderComparator_cs\FolderComparator_cs\obj\Debug\net6.0\FolderComparator_cs.csproj.CoreCompileInputs.cache
+G:\03_PROGRAMMING\CSharp\FolderComparator_cs\FolderComparator_cs\obj\Debug\net6.0\FolderComparator_cs.dll
+G:\03_PROGRAMMING\CSharp\FolderComparator_cs\FolderComparator_cs\obj\Debug\net6.0\refint\FolderComparator_cs.dll
+G:\03_PROGRAMMING\CSharp\FolderComparator_cs\FolderComparator_cs\obj\Debug\net6.0\FolderComparator_cs.pdb
+G:\03_PROGRAMMING\CSharp\FolderComparator_cs\FolderComparator_cs\obj\Debug\net6.0\FolderComparator_cs.genruntimeconfig.cache
+G:\03_PROGRAMMING\CSharp\FolderComparator_cs\FolderComparator_cs\obj\Debug\net6.0\ref\FolderComparator_cs.dll
